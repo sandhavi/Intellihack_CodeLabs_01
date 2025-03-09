@@ -60,14 +60,15 @@ The following Python libraries are required:
 
 ## Repository Structure
 ```
+├── Reports
+|  ├── IntelliHack_CodeLabs_01_1.pdf
+|  ├── IntelliHack_CodeLabs_01_2.pdf
+|  ├── IntelliHack_CodeLabs_01.pdf
 ├── IntelliHack_CodeLabs_01_1.ipynb
-├── IntelliHack_CodeLabs_01_1.pdf
 ├── IntelliHack_CodeLabs_01_2.ipynb
-├── IntelliHack_CodeLabs_01_2.pdf
-├── IntelliHack_CodeLabs_01.pdf
-├── weather_data.csv                             # Dataset file
-├── rain_prediction_model.pkl              # Trained model                             
-├── README.md                             # This file
+├── README.md                            
+├── rain_prediction_model.pkl             
+├── weather_data.csv                                                      
 ```
 
 ## Analysis Workflow
